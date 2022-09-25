@@ -155,3 +155,7 @@ preliminarmente (como é necessário se fazer com as tabelas dos BD-relacionais,
 - Queries de busca (especialmente no Mongo DB) 
 - Otimizar a performance com os diversos tipos de indexes, bem como encontrar o index correto para cada caso de uso
 - Aprender a criar o banco de dados para qualquer tipo de aplicação e usar as características de cada banco de dados a favor da aplicação. 
+
+# Desafios de projeto : DIO DATABASE EXPERIENCE
+
+Foram implementados quatro projetos durante a formação DIO DATABASE EXPERIENCE, as quais são apresentados acima. Dizem respeito a formulação de modelos de entidade relacionamento e implementação de modelo lógico e físico. Foi utilizado o SGBD MYSQL, acompanhado do GUI MySQL Workbench para a construção das tabelas, grafos e execução das queries. Cada projeto está acompanhado de uma pequena descrição no commit respectivo e exemplifica de maneira geral os temas abordados na formação. 
