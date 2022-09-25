@@ -1,3 +1,5 @@
+--analisar o modelo "ordemServico", neste repositório
+
 create database oficina;
 
 use oficina;
