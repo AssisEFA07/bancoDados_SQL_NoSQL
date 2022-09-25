@@ -1,3 +1,5 @@
+--analisar o modelo "modeloEcommerce", neste repositório. 
+
 create database ecommerce;
 use ecommerce;
 
