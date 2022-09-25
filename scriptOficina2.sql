@@ -1,4 +1,4 @@
---analisar o modelo "ordemServico", neste repositório
+--analisar o modelo "modeloOficina2", neste repositório
 
 create database oficina;
 
